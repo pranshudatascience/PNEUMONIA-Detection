@@ -8,9 +8,12 @@ According to the paper, the images (anterior-posterior) were selected from retro
 Source Of Dataset: https://www.kaggle.com/tolgadincer/labeled-chest-xray-images
 
 ![image](https://user-images.githubusercontent.com/31736193/126171427-8819e93a-a1e9-4180-a222-2967db3df38f.png)                                                                 
-NORMAL
+                                                  NORMAL
+
+
+
 
 
 
 ![image](https://user-images.githubusercontent.com/31736193/126171530-f9740c02-2bc6-49eb-a2bd-60cf99790614.png)
-PNUEMONIA
+                                                 PNUEMONIA
